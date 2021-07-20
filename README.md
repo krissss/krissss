@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <details>
   <summary>✨ Welcome ✨</summary>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=krissss&show_icons=true&theme=flag-india&include_all_commits=1">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissss&layout=compact">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=krissss&show_icons=true&theme=flag-india&include_all_commits=1">
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissss&layout=compact">-->
 </details>
