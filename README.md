@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krissss&show_icons=true&theme=flag-india&include_all_commits=1)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krissss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>✨ Welcome ✨</summary>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=krissss&show_icons=true&theme=flag-india&include_all_commits=1">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissss&layout=compact">
+</details>
